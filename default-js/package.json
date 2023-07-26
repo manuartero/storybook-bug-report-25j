@@ -129,6 +129,8 @@
     "@storybook/web-components": "7.2.0-alpha.0",
     "@storybook/web-components-vite": "7.2.0-alpha.0",
     "@storybook/web-components-webpack5": "7.2.0-alpha.0",
+    "jackspeak": "2.1.1",
+    "cli-truncate": "2.1.0",
     "sb": "7.2.0-alpha.0",
     "storybook": "7.2.0-alpha.0"
   },
@@ -137,6 +139,8 @@
     "@storybook/addon-interactions": "^7.2.0-alpha.0",
     "@storybook/addon-links": "^7.2.0-alpha.0",
     "@storybook/addon-onboarding": "^1.0.8",
+    "@storybook/addon-storyshots": "7.1.1",
+    "@storybook/addon-storyshots-puppeteer": "7.1.1",
     "@storybook/blocks": "^7.2.0-alpha.0",
     "@storybook/preset-create-react-app": "^7.2.0-alpha.0",
     "@storybook/react": "^7.2.0-alpha.0",
@@ -144,6 +148,7 @@
     "@storybook/testing-library": "^0.2.0",
     "babel-plugin-named-exports-order": "^0.0.2",
     "prop-types": "^15.8.1",
+    "puppeteer": "18.1.0",
     "storybook": "^7.2.0-alpha.0",
     "webpack": "^5.88.2"
   }
